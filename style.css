@@ -1,11 +1,11 @@
 body{
-background-color: grey;
+background-color: #FCF9FF;
 }
 
-head{
+h4{
 font-size: 48px;
-padding: 15px
-color: white;
+text-align: center;
+color: grey;
 }
 h3{
 font-size: 36px;
